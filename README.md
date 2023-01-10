@@ -59,7 +59,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Decode Morse Message <a name="about-project"></a>
 
-> This is Decode Morse Message is my first project in ruby prgramming language and it convert morse message to human readable form.
+> Decode Morse Message is my first project in ruby prgramming language and it convert morse message to human readable form.
 
 **Decode Morse Message** is the ruby methods project that convert morse messages.
 
