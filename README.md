@@ -184,7 +184,7 @@ You can deploy this project using:
 > Describe 1 - 3 features you will add to the project.
 
 - [ ] - **Decode Morse Messages**
-- [ ]  **Using hashes to perform the operations**
+- [ ] - **Using hashes to perform the operations**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
