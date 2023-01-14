@@ -46,18 +46,18 @@ def get_word(words)
   morse_word = words.split
   word = ''
   morse_word.each do |char|
-    word += getChar(char)
+    word += get_char(char)
   end
   word
 end
 puts get_word('-- -.--')
 
 def get_sentence(bottole_sentence)
-  morse_sentence = bottole_sentence.split
+  morse_sentence = bottole_sentence.split('  ')
   sentence = ''
   morse_sentence.each do |char|
-    sentence += get_Word(char)
-    sentence += ''
+    sentence += get_word(char)
+    sentence += ' '
   end
   sentence
 end
